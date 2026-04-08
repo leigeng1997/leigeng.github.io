@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://leigeng.github.io/sitemap.xml
+Sitemap: https://leigeng.github.io/leigeng.github.io/sitemap.xml
