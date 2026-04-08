@@ -1,10 +1,10 @@
 cv:
   name: Lei Geng
   label: Postdoctoral Researcher
-  email: lei.geng@unifr.ch
   location: Fribourg, Switzerland
+  date_of_birth: 1997-04-23
+  hometown: Cangzhou (沧州), China
   image: ""
-  summary: ""
 
   sections:
     Education:
@@ -15,7 +15,6 @@ cv:
         start_date: 2019
         end_date: 2024
 
-
       - institution: Peking University, School of Physics
         location: Beijing, China
         area: Atmospheric Sciences
@@ -23,15 +22,16 @@ cv:
         start_date: 2015
         end_date: 2019
 
-
       - institution: Shijiazhuang No. 2 High School
         location: Shijiazhuang, China
+        area: Secondary Education
         studyType: High School
         start_date: 2012
         end_date: 2015
 
       - institution: Cangzhou No. 8 Middle School
         location: Cangzhou, China
+        area: Junior Secondary Education
         studyType: Middle School
         start_date: 2009
         end_date: 2012
