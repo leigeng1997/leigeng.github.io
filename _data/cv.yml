@@ -1,48 +1,44 @@
 cv:
   name: Lei Geng
-  label: Physicist
-  email: ""
+  label: Postdoctoral Researcher
+  email: lei.geng@unifr.ch
   location: Fribourg, Switzerland
   image: ""
-  summary: Condensed matter physics postdoctoral researcher with a background in atomic and molecular physics.
+  summary: ""
 
   sections:
     Education:
       - institution: Peking University, School of Physics
-        location: China
+        location: Beijing, China
         area: Atomic and Molecular Physics
         studyType: PhD
         start_date: 2019
         end_date: 2024
-        highlights:
-          - Advisor: Professor Liang-You Peng
+
 
       - institution: Peking University, School of Physics
-        location: China
+        location: Beijing, China
         area: Atmospheric Sciences
         studyType: Bachelor's Degree
         start_date: 2015
         end_date: 2019
-        highlights:
-          - Advisor: Professor Tzung-May Fu
+
 
       - institution: Shijiazhuang No. 2 High School
-        location: China
+        location: Shijiazhuang, China
         studyType: High School
         start_date: 2012
         end_date: 2015
 
       - institution: Cangzhou No. 8 Middle School
-        location: China
+        location: Cangzhou, China
         studyType: Middle School
         start_date: 2009
         end_date: 2012
 
-    Experience:
+    Work Experience:
       - company: University of Fribourg, Department of Physics
-        position: Postdoctoral Researcher in Condensed Matter Physics
+        position: Postdoctoral Researcher
         location: Fribourg, Switzerland
         start_date: 2024-10
         end_date: present
-        highlights:
-          - Collaborative Mentor: Professor Philipp Werner
