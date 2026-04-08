@@ -1,8 +1,9 @@
 cv:
   name: Lei Geng
   label: Postdoctoral Researcher
-  email: lei.geng@unifr.ch
   location: Fribourg, Switzerland
+  date_of_birth: 1997-04-23
+  hometown: Cangzhou (沧州), China
   image: ""
 
   sections:
