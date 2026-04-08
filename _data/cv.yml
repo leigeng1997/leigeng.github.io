@@ -4,7 +4,6 @@ cv:
   email: lei.geng@unifr.ch
   location: Fribourg, Switzerland
   image: ""
-  summary: ""
 
   sections:
     Education:
@@ -15,14 +14,12 @@ cv:
         start_date: 2019
         end_date: 2024
 
-
       - institution: Peking University, School of Physics
         location: Beijing, China
         area: Atmospheric Sciences
         studyType: Bachelor's Degree
         start_date: 2015
         end_date: 2019
-
 
       - institution: Shijiazhuang No. 2 High School
         location: Shijiazhuang, China
