@@ -2,33 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoctoral Researcher, University of Fribourg
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><a href="mailto:lei.geng@unifr.ch">lei.geng@unifr.ch</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a postdoctoral researcher in the group of Prof. Philipp Werner at the University of Fribourg, Switzerland. My current research focuses on nonequilibrium dynamics in strongly correlated systems, with particular emphasis on long-lived transient (prethermal-like) states under photodoping and constant electric fields. To study these problems, I mainly use nonequilibrium Green's functions and nonequilibrium dynamical mean-field theory (DMFT).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+During my PhD at Peking University, I worked in the group of Prof. Liang-You Peng on strong-field ionization and high-harmonic generation in atoms and molecules. As an undergraduate, I also received early research training in atmospheric chemistry in the group of Prof. Tzung-May Fu at Peking University.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am broadly interested in many areas of physics, especially computational and numerical approaches to complex problems. If you are interested in my previous work or would like to discuss related ideas, feel free to contact me.
