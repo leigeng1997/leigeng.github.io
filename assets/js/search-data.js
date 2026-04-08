@@ -441,13 +441,6 @@ ninja.data = [{
           window.open("mailto:%6C%65%69.%67%65%6E%67@%75%6E%69%66%72.%63%68", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/leigeng.github.io/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
