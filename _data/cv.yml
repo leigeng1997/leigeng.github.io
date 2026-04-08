@@ -23,14 +23,14 @@ cv:
 
       - institution: Shijiazhuang No. 2 High School
         location: Shijiazhuang, China
-        area: Secondary Education
+        area: ""
         studyType: High School
         start_date: 2012
         end_date: 2015
 
       - institution: Cangzhou No. 8 Middle School
         location: Cangzhou, China
-        area: Junior Secondary Education
+        area: ""
         studyType: Middle School
         start_date: 2009
         end_date: 2012
