@@ -121,15 +121,20 @@ layout: default
         {% endif %}
 
         <!-- RenderCV Sections - Merge Experience and Volunteer -->
-        {% comment %} First, combine Experience and Volunteer entries {% endcomment %}
+        {% comment %} First, combine Experience/Work Experience and Volunteer entries {% endcomment %}
         {% assign empty_array = '' | split: ',' %}
         {% assign exp = cv.sections.Experience | default: empty_array %}
+        {% assign work_exp = cv.sections['Work Experience'] | default: empty_array %}
         {% assign vol = cv.sections.Volunteer | default: empty_array %}
-        {% assign combined_experience = exp | concat: vol %}
+        {% assign combined_experience = exp | concat: work_exp | concat: vol %}
         {% if combined_experience.size > 0 %}
           <a class="anchor" id="experience"></a>
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Experience</h3>
+            {% if cv.sections['Work Experience'] %}
+              <h3 class="card-title font-weight-medium">Work Experience</h3>
+            {% else %}
+              <h3 class="card-title font-weight-medium">Experience</h3>
+            {% endif %}
             <div>
               {% assign entries = combined_experience %}
               {% include cv/experience.liquid %}
@@ -142,8 +147,8 @@ layout: default
           {% assign section_title = section_pair[0] %}
           {% assign section_entries = section_pair[1] %}
 
-          {% comment %} Skip Experience and Volunteer as we've already processed them combined {% endcomment %}
-          {% if section_title == 'Experience' or section_title == 'Volunteer' %}
+          {% comment %} Skip Experience/Work Experience and Volunteer as we've already processed them combined {% endcomment %}
+          {% if section_title == 'Experience' or section_title == 'Work Experience' or section_title == 'Volunteer' %}
             {% continue %}
           {% endif %}
 
