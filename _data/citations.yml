@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-05-11'
 papers:
   zntAH0IAAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -22,7 +22,7 @@ papers:
     title: Noncollinear harmonic spectroscopy reveals crossover of strong-field effects
     year: '2025'
   zntAH0IAAAAJ:Se3iqnhoufwC:
-    citations: 6
+    citations: 7
     title: Generation of high-order harmonics with hybrid spin and transverse orbital angular momentum from a crystalline solid
     year: '2024'
   zntAH0IAAAAJ:Tyk-4Ss8FVUC:
@@ -70,7 +70,7 @@ papers:
     title: 'Photon momentum transfer in one-photon single ionization of helium: The influence of electron correlation'
     year: '2025'
   zntAH0IAAAAJ:kNdYIx-mwKoC:
-    citations: 3
+    citations: 4
     title: 'Third-order strong-coupling impurity solver for real-frequency dynamical mean field theory: Accurate spectral functions for antiferromagnetic and photodoped states'
     year: '2025'
   zntAH0IAAAAJ:qjMakFHDy7sC:
@@ -82,11 +82,11 @@ papers:
     title: 'Anomalous photoinduced band renormalization in correlated materials: The case of '
     year: '2024'
   zntAH0IAAAAJ:u-x6o8ySG0sC:
-    citations: 28
+    citations: 29
     title: Vortex streets and honeycomb structures in photodetachment driven by linearly polarized few-cycle laser pulses
     year: '2020'
   zntAH0IAAAAJ:u5HHmVD_uO8C:
-    citations: 43
+    citations: 44
     title: Vortex structures in photodetachment by few-cycle circularly polarized pulses
     year: '2020'
   zntAH0IAAAAJ:ufrVoPGSRksC:
