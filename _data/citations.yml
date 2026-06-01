@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-11'
+  last_updated: '2026-06-01'
 papers:
   zntAH0IAAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -18,7 +18,7 @@ papers:
     title: Laser-induced electron Fresnel diffraction by XUV pulses at extreme intensity
     year: '2021'
   zntAH0IAAAAJ:MXK_kJrjxJIC:
-    citations: 2
+    citations: 3
     title: Noncollinear harmonic spectroscopy reveals crossover of strong-field effects
     year: '2025'
   zntAH0IAAAAJ:Se3iqnhoufwC:
@@ -94,6 +94,6 @@ papers:
     title: Robustness of attosecond molecular modes under nuclear dynamics
     year: '2023'
   zntAH0IAAAAJ:zYLM7Y9cAGgC:
-    citations: 5
+    citations: 6
     title: Laser-induced electron fresnel diffraction in tunneling and over-barrier ionization
     year: '2022'
