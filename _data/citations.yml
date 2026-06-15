@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-15'
 papers:
   zntAH0IAAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -30,7 +30,7 @@ papers:
     title: 'Structured photoelectron distributions in photodetachment induced by trains of laser pulses: Vortices versus spirals'
     year: '2021'
   zntAH0IAAAAJ:ULOm3_A8WrAC:
-    citations: 0
+    citations: 1
     title: High-temperature -pairing superconductivity in the photodoped Hubbard model
     year: '2026'
   zntAH0IAAAAJ:W7OEmFMy1HYC:
@@ -45,6 +45,10 @@ papers:
     citations: 13
     title: Strain effects on high-harmonic generation in monolayer hexagonal boron nitride
     year: '2022'
+  zntAH0IAAAAJ:YOwf2qJgpHMC:
+    citations: 0
+    title: -pairing in metallic and particle-hole asymmetric systems
+    year: '2026'
   zntAH0IAAAAJ:YsMSGLbcyi4C:
     citations: 10
     title: Dynamical analysis of attosecond molecular modes
@@ -70,7 +74,7 @@ papers:
     title: 'Photon momentum transfer in one-photon single ionization of helium: The influence of electron correlation'
     year: '2025'
   zntAH0IAAAAJ:kNdYIx-mwKoC:
-    citations: 4
+    citations: 5
     title: 'Third-order strong-coupling impurity solver for real-frequency dynamical mean field theory: Accurate spectral functions for antiferromagnetic and photodoped states'
     year: '2025'
   zntAH0IAAAAJ:qjMakFHDy7sC:
