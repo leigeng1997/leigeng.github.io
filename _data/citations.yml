@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-07-01'
 papers:
   zntAH0IAAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -22,7 +22,7 @@ papers:
     title: Noncollinear harmonic spectroscopy reveals crossover of strong-field effects
     year: '2025'
   zntAH0IAAAAJ:Se3iqnhoufwC:
-    citations: 7
+    citations: 8
     title: Generation of high-order harmonics with hybrid spin and transverse orbital angular momentum from a crystalline solid
     year: '2024'
   zntAH0IAAAAJ:Tyk-4Ss8FVUC:
@@ -42,7 +42,7 @@ papers:
     title: Solving the time-dependent Klein-Gordon and square-root Klein-Gordon equations with Krylov-subspace methods
     year: '2023'
   zntAH0IAAAAJ:Y0pCki6q_DkC:
-    citations: 13
+    citations: 14
     title: Strain effects on high-harmonic generation in monolayer hexagonal boron nitride
     year: '2022'
   zntAH0IAAAAJ:YOwf2qJgpHMC:
@@ -58,7 +58,7 @@ papers:
     title: Photoinduced excitonic magnetism in a multiorbital Hubbard system
     year: '2026'
   zntAH0IAAAAJ:_FxGoFyzp5QC:
-    citations: 2
+    citations: 1
     title: Analytical analysis for additional ionization peaks of He induced by chirped xuv pulses
     year: '2024'
   zntAH0IAAAAJ:d1gkVwhDpl0C:
