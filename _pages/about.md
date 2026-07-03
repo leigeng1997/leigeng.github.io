@@ -3,6 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: Postdoctoral Researcher, University of Fribourg
+description: Lei Geng's academic homepage, publications, CV, and research interests in nonequilibrium dynamics, strongly correlated systems, DMFT, nonequilibrium Green's functions, strong-field physics, and high-harmonic generation.
+keywords: Lei Geng, Geng Lei, theoretical physics, computational condensed matter physics, nonequilibrium dynamics, strongly correlated systems, DMFT, nonequilibrium Green's functions, high-harmonic generation, University of Fribourg
 
 profile:
   align: right
