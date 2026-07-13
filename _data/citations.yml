@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-03'
+  last_updated: '2026-07-13'
 papers:
   zntAH0IAAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -10,7 +10,7 @@ papers:
     title: Nondipole effects in interference patterns of a two-electron wave
     year: '2021'
   zntAH0IAAAAJ:5nxA0vEk-isC:
-    citations: 4
+    citations: 5
     title: 'Theoretical investigations of high harmonic generation in the Weyl semimetal '
     year: '2025'
   zntAH0IAAAAJ:9yKSN-GCB0IC:
@@ -30,7 +30,7 @@ papers:
     title: 'Structured photoelectron distributions in photodetachment induced by trains of laser pulses: Vortices versus spirals'
     year: '2021'
   zntAH0IAAAAJ:ULOm3_A8WrAC:
-    citations: 1
+    citations: 3
     title: High-temperature -pairing superconductivity in the photodoped Hubbard model
     year: '2026'
   zntAH0IAAAAJ:W7OEmFMy1HYC:
@@ -54,13 +54,17 @@ papers:
     title: Dynamical analysis of attosecond molecular modes
     year: '2023'
   zntAH0IAAAAJ:Zph67rFs4hoC:
-    citations: 0
+    citations: 2
     title: Photoinduced excitonic magnetism in a multiorbital Hubbard system
     year: '2026'
   zntAH0IAAAAJ:_FxGoFyzp5QC:
     citations: 2
     title: Analytical analysis for additional ionization peaks of He induced by chirped xuv pulses
     year: '2024'
+  zntAH0IAAAAJ:_kc_bZDykSQC:
+    citations: 0
+    title: Nonperturbative Nonlinear Hall Effect in Nonequilibrium Steady States
+    year: '2026'
   zntAH0IAAAAJ:d1gkVwhDpl0C:
     citations: 8
     title: Analytic description of the above-threshold detachment in the adiabatic limit
@@ -74,7 +78,7 @@ papers:
     title: 'Photon momentum transfer in one-photon single ionization of helium: The influence of electron correlation'
     year: '2025'
   zntAH0IAAAAJ:kNdYIx-mwKoC:
-    citations: 5
+    citations: 7
     title: 'Third-order strong-coupling impurity solver for real-frequency dynamical mean field theory: Accurate spectral functions for antiferromagnetic and photodoped states'
     year: '2025'
   zntAH0IAAAAJ:qjMakFHDy7sC:
