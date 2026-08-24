@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-08-24'
 papers:
   zntAH0IAAAAJ:0EnyYjriUFMC:
     citations: 6
     title: 'Two-particle self-consistent approach combined with dynamical mean field theory: A real-frequency study of the square-lattice Hubbard model'
     year: '2025'
   zntAH0IAAAAJ:2osOgNQ5qMEC:
-    citations: 14
+    citations: 15
     title: Nondipole effects in interference patterns of a two-electron wave
     year: '2021'
   zntAH0IAAAAJ:5nxA0vEk-isC:
@@ -90,11 +90,11 @@ papers:
     title: 'Anomalous photoinduced band renormalization in correlated materials: The case of '
     year: '2024'
   zntAH0IAAAAJ:u-x6o8ySG0sC:
-    citations: 29
+    citations: 30
     title: Vortex streets and honeycomb structures in photodetachment driven by linearly polarized few-cycle laser pulses
     year: '2020'
   zntAH0IAAAAJ:u5HHmVD_uO8C:
-    citations: 44
+    citations: 45
     title: Vortex structures in photodetachment by few-cycle circularly polarized pulses
     year: '2020'
   zntAH0IAAAAJ:ufrVoPGSRksC:
